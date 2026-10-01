@@ -1,0 +1,10 @@
+{
+  "name": "microservicios-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demostración educativa de dos servicios REST independientes",
+  "scripts": {
+    "start:users": "node users.js",
+    "start:orders": "node orders.js"
+  }
+}
